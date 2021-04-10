@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AsthaSrivastava8
+- 👋 Hi, I’m Astha Srivastava
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me srivastavastha811@gmail.com
 
 <!---
 AsthaSrivastava8/AsthaSrivastava8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
