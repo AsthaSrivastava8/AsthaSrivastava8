@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Astha Srivastava
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Kafka
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me srivastavastha811@gmail.com
 
